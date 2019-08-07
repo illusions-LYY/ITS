@@ -1,0 +1,12 @@
+*.csv
+*.pkl
+*.pickle
+all_vectors
+vectors.kv
+.ipynb_checkpoints
+.DS_Store
+*.xlsx
+__pycache__
+*.png
+.idea
+
